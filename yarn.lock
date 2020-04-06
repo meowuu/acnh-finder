@@ -8,9 +8,9 @@
   integrity sha512-CuBeUSdOmE8h8HA7Rlc7852rwgBueQcQidWyN+MFGhfikzmLH/yodsbhVRfUqvlm7e0M0S5gzPs6qMnqUmqxeg==
 
 "@meowuu/worker-router@^1.0.2":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@meowuu/worker-router/-/worker-router-1.0.3.tgz#28361e68ff3c9840a20e61f063e93564aa5b48ed"
-  integrity sha512-RBxNlzyHIQTvReRq9vFawRjDZei+8Weq3VvgpJqAFMNUngK1MOvcCxz2dnSuC9iwbhVagjaQIFSLphlhiiK34g==
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@meowuu/worker-router/-/worker-router-1.0.4.tgz#24cf3287b7c17875201febe9b3cca031d521fd14"
+  integrity sha512-AN9qmL054Q/gDV4dLkZiNM/+QCKuNg4I08G0Co0+OwJt1/GjPOvPWGESMsXxo5zeYvfN9965UNQilmAQ7BD9jw==
   dependencies:
     "@types/path-to-regexp" "^1.7.0"
     parseurl "^1.3.3"
