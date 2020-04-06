@@ -20,7 +20,7 @@ function route (req: Request) {
           code: 0,
           data: {
             message: `你查找的${name}需要\n${
-              result.materials.map(({ name, count }) => `${name} ${count}个`).join(`\n`)
+              result.materials.map(({ name, count }) => `${name} ${count}个`).join(`，`)
             }`,
             access: result.access
           }
