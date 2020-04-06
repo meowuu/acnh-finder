@@ -3,4 +3,3 @@ type = "webpack"
 webpack_config = "webpack.config.js"
 account_id = "cb285e09b74f33fe86f5f07ab656753c"
 workers_dev = true
-zone_id = ""
