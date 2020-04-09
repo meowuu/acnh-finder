@@ -9,7 +9,7 @@ on:
   #  branches: 
   #    - master
   schedule:
-    - cron: "0 23 * * *"
+    - cron: "0 23 */2 * *"
   watch:
     types: [started]
 
@@ -37,7 +37,7 @@ jobs:
         git config --global user.email 63333745+meowwbot@users.noreply.github.com
         git config --global user.name meowwbot
         git add .
-        git commit -m "CI: update data" -a || echo "nothing to do"
+        git commit -m "ci: auto update data" -a || echo "nothing to do"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
