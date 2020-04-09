@@ -5,6 +5,9 @@ on:
   push:
     branches:
       - master
+  check_run:
+    types:
+      - completed
 
 jobs:
   deploy:
