@@ -1,0 +1,44 @@
+name: Auto Update Data
+
+on: 
+  release:
+    types: [published]
+  push:
+    tags:
+    - 'v*'
+  #  branches: 
+  #    - master
+  schedule:
+    - cron: "0 23 * * *"
+  watch:
+    types: [started]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@master
+    - name: Set up Python
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+    - name: Install requirements
+      run: |
+        pip install requests
+        pip install lxml
+    - name: Start crawler
+      run: | 
+        python3 ./data/crawler.py
+        mv manual.json ./data/
+    - name: Commit 
+      run: |
+        git config --global user.email 63333745+meowwbot@users.noreply.github.com
+        git config --global user.name meowwbot
+        git add .
+        git commit -m "CI: update data" -a || echo "nothing to do"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.MEOWBOT_GITHUB_TOKEN }}
