@@ -693,7 +693,7 @@
     },
     {
         "name": "俄罗斯套娃",
-        "access": "漂流瓶",
+        "access": "漂流瓶/村民教",
         "materials": [
             {
                 "name": "软木材",
@@ -949,7 +949,7 @@
     },
     {
         "name": "消波块",
-        "access": "",
+        "access": "里程兑换",
         "materials": [
             {
                 "name": "石头",
@@ -963,7 +963,7 @@
     },
     {
         "name": "草丛道具",
-        "access": "",
+        "access": "漂流瓶",
         "materials": [
             {
                 "name": "木材",
@@ -1039,7 +1039,7 @@
     },
     {
         "name": "人孔盖",
-        "access": "",
+        "access": "里程兑换",
         "materials": [
             {
                 "name": "铁矿石",
@@ -1211,7 +1211,7 @@
     },
     {
         "name": "鸟笼",
-        "access": "",
+        "access": "村民",
         "materials": [
             {
                 "name": "木材",
@@ -1231,7 +1231,7 @@
     },
     {
         "name": "月亮",
-        "access": "",
+        "access": "流星雨当天晚上与岛上的傅珂对话",
         "materials": [
             {
                 "name": "星星碎片",
@@ -1431,7 +1431,7 @@
     },
     {
         "name": "花园铸铁长椅",
-        "access": "",
+        "access": "村民",
         "materials": [
             {
                 "name": "铁矿石",
@@ -1549,7 +1549,7 @@
     },
     {
         "name": "登月舱",
-        "access": "",
+        "access": "流星雨当天晚上与岛上的傅珂对话",
         "materials": [
             {
                 "name": "星星碎片",
@@ -1725,7 +1725,7 @@
     },
     {
         "name": "钢架",
-        "access": "",
+        "access": "漂流瓶",
         "materials": [
             {
                 "name": "铁矿石",
@@ -1759,7 +1759,7 @@
     },
     {
         "name": "砖块栅栏",
-        "access": "",
+        "access": "里程兑换",
         "materials": [
             {
                 "name": "黏土",
@@ -1793,7 +1793,7 @@
     },
     {
         "name": "简约水井",
-        "access": "",
+        "access": "狸端机兑换",
         "materials": [
             {
                 "name": "石头",
@@ -2489,7 +2489,7 @@
     },
     {
         "name": "切菜板",
-        "access": "",
+        "access": "气球",
         "materials": [
             {
                 "name": "硬木材",
@@ -2825,7 +2825,7 @@
     },
     {
         "name": "五右卫门泡澡桶",
-        "access": "气球",
+        "access": "气球/漂流瓶",
         "materials": [
             {
                 "name": "铁矿石",
@@ -2959,7 +2959,7 @@
     },
     {
         "name": "贝壳拱门",
-        "access": "",
+        "access": "气球",
         "materials": [
             {
                 "name": "钟螺壳",
@@ -3729,7 +3729,7 @@
     },
     {
         "name": "叶子",
-        "access": "",
+        "access": "动物赠送",
         "materials": [
             {
                 "name": "杂草",
