@@ -1011,7 +1011,7 @@
     },
     {
         "name": "套圈圈",
-        "access": "",
+        "access": "狸克赠送",
         "materials": [
             {
                 "name": "木材",
@@ -1421,7 +1421,7 @@
     },
     {
         "name": "炊火",
-        "access": "",
+        "access": "开场自带",
         "materials": [
             {
                 "name": "树枝",
@@ -1869,7 +1869,7 @@
     },
     {
         "name": "陷阱种子",
-        "access": "",
+        "access": "小动物赠送",
         "materials": [
             {
                 "name": "杂草",
@@ -3689,7 +3689,7 @@
     },
     {
         "name": "金盔甲",
-        "access": "与岛民对话获得",
+        "access": "与岛民对话",
         "materials": [
             {
                 "name": "金矿石",
@@ -4785,7 +4785,7 @@
     },
     {
         "name": "郁金香花环",
-        "access": "",
+        "access": "小动物赠送",
         "materials": [
             {
                 "name": "红色郁金香",
@@ -7351,7 +7351,7 @@
     },
     {
         "name": "朴素木制栅栏",
-        "access": "",
+        "access": "狸端机兑换",
         "materials": [
             {
                 "name": "软木材",
