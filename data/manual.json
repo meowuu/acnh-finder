@@ -449,7 +449,7 @@
     },
     {
         "name": "篝火",
-        "access": "",
+        "access": "商店购买（新手DIY手册）",
         "materials": [
             {
                 "name": "炊火",
@@ -823,7 +823,7 @@
     },
     {
         "name": "贝壳桌",
-        "access": "",
+        "access": "小动物赠送",
         "materials": [
             {
                 "name": "沙钱",
@@ -1639,7 +1639,7 @@
     },
     {
         "name": "杂志堆",
-        "access": "",
+        "access": "村民赠送",
         "materials": [
             {
                 "name": "杂志",
@@ -1725,7 +1725,7 @@
     },
     {
         "name": "钢架",
-        "access": "漂流瓶",
+        "access": "漂流瓶/村民赠送",
         "materials": [
             {
                 "name": "铁矿石",
@@ -3149,7 +3149,7 @@
     },
     {
         "name": "竹鼓",
-        "access": "",
+        "access": "村民赠送",
         "materials": [
             {
                 "name": "竹子材料",
@@ -3593,7 +3593,7 @@
     },
     {
         "name": "鱼饲料",
-        "access": "",
+        "access": "挖到蛤蜊时觉悟",
         "materials": [
             {
                 "name": "蛤蜊",
@@ -3767,7 +3767,7 @@
     },
     {
         "name": "桃子壁纸",
-        "access": "",
+        "access": "村民赠送",
         "materials": [
             {
                 "name": "桃子",
@@ -3807,7 +3807,7 @@
     },
     {
         "name": "樱桃壁纸",
-        "access": "",
+        "access": "村民赠送",
         "materials": [
             {
                 "name": "樱桃",
@@ -3865,7 +3865,7 @@
     },
     {
         "name": "蜂巢墙",
-        "access": "",
+        "access": "村民赠送",
         "materials": [
             {
                 "name": "蜂巢",
@@ -6783,7 +6783,7 @@
     },
     {
         "name": "背架",
-        "access": "",
+        "access": "村民赠送",
         "materials": [
             {
                 "name": "木材",
@@ -7005,7 +7005,7 @@
     },
     {
         "name": "金色招财猫",
-        "access": "",
+        "access": "村民赠送",
         "materials": [
             {
                 "name": "金矿石",
