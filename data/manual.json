@@ -2677,7 +2677,7 @@
     },
     {
         "name": "贝壳灯",
-        "access": "",
+        "access": "村民赠送",
         "materials": [
             {
                 "name": "扇贝壳",
@@ -2909,7 +2909,7 @@
     },
     {
         "name": "贝壳床铺",
-        "access": "",
+        "access": "村民赠送",
         "materials": [
             {
                 "name": "扇贝壳",
@@ -3699,7 +3699,7 @@
     },
     {
         "name": "漫画图书馆墙",
-        "access": "",
+        "access": "村民赠送",
         "materials": [
             {
                 "name": "杂志",
@@ -3875,7 +3875,7 @@
     },
     {
         "name": "苹果壁纸",
-        "access": "",
+        "access": "村民赠送",
         "materials": [
             {
                 "name": "苹果",
@@ -3905,7 +3905,7 @@
     },
     {
         "name": "黄金墙",
-        "access": "",
+        "access": "村民赠送",
         "materials": [
             {
                 "name": "金矿石",
@@ -3935,7 +3935,7 @@
     },
     {
         "name": "月球表面地板",
-        "access": "",
+        "access": "流星雨当天晚上与岛上的傅珂对话",
         "materials": [
             {
                 "name": "星星碎片",
@@ -3983,7 +3983,7 @@
     },
     {
         "name": "三色堇棒",
-        "access": "",
+        "access": "流星当天晚上与岛上的傅珂对话",
         "materials": [
             {
                 "name": "黄色三色堇",
@@ -6861,7 +6861,7 @@
     },
     {
         "name": "金色斧头",
-        "access": "",
+        "access": "灵感（简陋斧头用坏100个）",
         "materials": [
             {
                 "name": "金矿石",
