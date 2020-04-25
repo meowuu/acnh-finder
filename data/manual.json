@@ -213,7 +213,7 @@
     },
     {
         "name": "木制水桶",
-        "access": "狸克赠送/商店购买",
+        "access": "狸克赠送/商店购买/向岛民学习配方",
         "materials": [
             {
                 "name": "木材",
@@ -8068,6 +8068,52 @@
             {
                 "name": "鱼儿蛋",
                 "count": 1
+            }
+        ]
+    },
+    {
+        "name": "婚礼栅栏",
+        "access": "",
+        "materials": [
+            {
+                "name": "铁矿石",
+                "count": 5
+            },
+            {
+                "name": "软木材",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "name": "婚礼棒",
+        "access": "",
+        "materials": [
+            {
+                "name": "婚礼花架",
+                "count": 1
+            },
+            {
+                "name": "星星碎片",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "name": "树篱",
+        "access": "",
+        "materials": [
+            {
+                "name": "杂草",
+                "count": 10
+            },
+            {
+                "name": "树枝",
+                "count": 5
+            },
+            {
+                "name": "石头",
+                "count": 2
             }
         ]
     }
