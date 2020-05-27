@@ -2811,7 +2811,7 @@
     },
     {
         "name": "蘑菇树干",
-        "access": "",
+        "access": "漂流瓶/气球礼物",
         "materials": [
             {
                 "name": "瘦小蘑菇",
@@ -3739,7 +3739,7 @@
     },
     {
         "name": "枫叶墙",
-        "access": "",
+        "access": "漂流瓶/气球",
         "materials": [
             {
                 "name": "红叶",
@@ -4137,7 +4137,7 @@
     },
     {
         "name": "枫叶地板",
-        "access": "",
+        "access": "漂流瓶/气球",
         "materials": [
             {
                 "name": "红叶",
@@ -4299,7 +4299,7 @@
     },
     {
         "name": "蘑菇壁纸",
-        "access": "",
+        "access": "漂流瓶/气球",
         "materials": [
             {
                 "name": "出色蘑菇",
@@ -5765,7 +5765,7 @@
     },
     {
         "name": "树果拱门",
-        "access": "",
+        "access": "漂流瓶/气球",
         "materials": [
             {
                 "name": "松果",
@@ -5977,7 +5977,7 @@
     },
     {
         "name": "大树果树",
-        "access": "",
+        "access": "漂流瓶/气球",
         "materials": [
             {
                 "name": "松果",
@@ -6031,7 +6031,7 @@
     },
     {
         "name": "枫叶雨伞",
-        "access": "",
+        "access": "漂流瓶/气球",
         "materials": [
             {
                 "name": "红叶",
@@ -6387,7 +6387,7 @@
     },
     {
         "name": "落叶凳子",
-        "access": "",
+        "access": "漂流瓶/家具",
         "materials": [
             {
                 "name": "红叶",
@@ -6715,7 +6715,7 @@
     },
     {
         "name": "石水盆～枫叶～",
-        "access": "",
+        "access": "漂流瓶/气球",
         "materials": [
             {
                 "name": "石头",
@@ -6821,7 +6821,7 @@
     },
     {
         "name": "枫叶斜挎包",
-        "access": "",
+        "access": "漂流瓶/气球",
         "materials": [
             {
                 "name": "红叶",
