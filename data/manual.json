@@ -1343,7 +1343,7 @@
     },
     {
         "name": "飞碟",
-        "access": "",
+        "access": "与傅珂对话",
         "materials": [
             {
                 "name": "星星碎片",
@@ -2137,7 +2137,7 @@
     },
     {
         "name": "冰块隔板",
-        "access": "",
+        "access": "堆出完美雪人获得",
         "materials": [
             {
                 "name": "大雪花",
@@ -2161,7 +2161,7 @@
     },
     {
         "name": "冰块椅子",
-        "access": "",
+        "access": "堆出完美雪人获得",
         "materials": [
             {
                 "name": "大雪花",
@@ -2199,7 +2199,7 @@
     },
     {
         "name": "冰块拱门",
-        "access": "",
+        "access": "堆出完美雪人获得",
         "materials": [
             {
                 "name": "大雪花",
@@ -2223,7 +2223,7 @@
     },
     {
         "name": "冰块树木",
-        "access": "",
+        "access": "堆出完美雪人获得",
         "materials": [
             {
                 "name": "大雪花",
@@ -2261,7 +2261,7 @@
     },
     {
         "name": "冰块柱子",
-        "access": "",
+        "access": "堆出完美雪人获得",
         "materials": [
             {
                 "name": "大雪花",
@@ -2285,7 +2285,7 @@
     },
     {
         "name": "冰块吧台",
-        "access": "",
+        "access": "堆出完美雪人获得",
         "materials": [
             {
                 "name": "大雪花",
@@ -2319,7 +2319,7 @@
     },
     {
         "name": "冰块艺术品",
-        "access": "",
+        "access": "堆出完美雪人获得",
         "materials": [
             {
                 "name": "大雪花",
@@ -2357,7 +2357,7 @@
     },
     {
         "name": "冰块桌",
-        "access": "",
+        "access": "堆出完美雪人获得",
         "materials": [
             {
                 "name": "大雪花",
@@ -2381,7 +2381,7 @@
     },
     {
         "name": "冰块床铺",
-        "access": "",
+        "access": "堆出完美雪人获得",
         "materials": [
             {
                 "name": "大雪花",
@@ -3303,7 +3303,7 @@
     },
     {
         "name": "雪花花环",
-        "access": "",
+        "access": "气球礼物",
         "materials": [
             {
                 "name": "雪花",
@@ -3355,7 +3355,7 @@
     },
     {
         "name": "贝壳花环",
-        "access": "",
+        "access": "气球礼物",
         "materials": [
             {
                 "name": "夏天贝壳",
@@ -3471,7 +3471,7 @@
     },
     {
         "name": "冰棒",
-        "access": "",
+        "access": "堆出完美雪人获得",
         "materials": [
             {
                 "name": "大雪花",
@@ -3885,7 +3885,7 @@
     },
     {
         "name": "雪花壁纸",
-        "access": "",
+        "access": "气球礼物",
         "materials": [
             {
                 "name": "雪花",
@@ -3959,7 +3959,7 @@
     },
     {
         "name": "水面地板",
-        "access": "",
+        "access": "气球礼物",
         "materials": [
             {
                 "name": "夏天贝壳",
@@ -4067,7 +4067,7 @@
     },
     {
         "name": "滑雪场地板",
-        "access": "",
+        "access": "气球礼物",
         "materials": [
             {
                 "name": "雪花",
@@ -4577,7 +4577,7 @@
     },
     {
         "name": "流冰地板",
-        "access": "",
+        "access": "气球礼物",
         "materials": [
             {
                 "name": "雪花",
@@ -4611,7 +4611,7 @@
     },
     {
         "name": "海底地板",
-        "access": "",
+        "access": "气球礼物",
         "materials": [
             {
                 "name": "夏天贝壳",
@@ -4647,7 +4647,7 @@
     },
     {
         "name": "3层雪人",
-        "access": "",
+        "access": "第一次堆雪人 雪人给予diy",
         "materials": [
             {
                 "name": "大雪花",
@@ -4841,7 +4841,7 @@
     },
     {
         "name": "水中壁纸",
-        "access": "",
+        "access": "气球礼物",
         "materials": [
             {
                 "name": "夏天贝壳",
@@ -4961,7 +4961,7 @@
     },
     {
         "name": "滑雪场壁纸",
-        "access": "",
+        "access": "气球礼物",
         "materials": [
             {
                 "name": "雪花",
@@ -4971,7 +4971,7 @@
     },
     {
         "name": "南方海洋墙",
-        "access": "",
+        "access": "气球礼物",
         "materials": [
             {
                 "name": "夏天贝壳",
@@ -5041,7 +5041,7 @@
     },
     {
         "name": "冰山墙",
-        "access": "",
+        "access": "气球礼物",
         "materials": [
             {
                 "name": "雪花",
@@ -6411,7 +6411,7 @@
     },
     {
         "name": "星星沙滩地板",
-        "access": "",
+        "access": "气球礼物",
         "materials": [
             {
                 "name": "夏天贝壳",
@@ -6575,7 +6575,7 @@
     },
     {
         "name": "冰之棒",
-        "access": "",
+        "access": "堆出完美雪人获得",
         "materials": [
             {
                 "name": "大雪花",
@@ -6643,7 +6643,7 @@
     },
     {
         "name": "贝壳棒",
-        "access": "",
+        "access": "气球礼物",
         "materials": [
             {
                 "name": "夏天贝壳",
@@ -6657,7 +6657,7 @@
     },
     {
         "name": "雪花斜挎包",
-        "access": "",
+        "access": "气球礼物",
         "materials": [
             {
                 "name": "雪花",
@@ -6701,7 +6701,7 @@
     },
     {
         "name": "贝壳斜挎包",
-        "access": "",
+        "access": "气球礼物",
         "materials": [
             {
                 "name": "扇贝壳",
@@ -7149,7 +7149,7 @@
     },
     {
         "name": "雪人头套",
-        "access": "",
+        "access": "堆出完美雪人获得",
         "materials": [
             {
                 "name": "大雪花",
@@ -8073,7 +8073,7 @@
     },
     {
         "name": "婚礼栅栏",
-        "access": "巴猎赠送",
+        "access": "活动赠送",
         "materials": [
             {
                 "name": "铁矿石",
@@ -8087,7 +8087,7 @@
     },
     {
         "name": "婚礼棒",
-        "access": "",
+        "access": "活动赠送",
         "materials": [
             {
                 "name": "婚礼花架",
