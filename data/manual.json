@@ -8116,5 +8116,273 @@
                 "count": 2
             }
         ]
+    },
+    {
+        "name": "人鱼矮柜",
+        "access": "阿獭赠送",
+        "materials": [
+            {
+                "name": "珍珠",
+                "count": 2
+            },
+            {
+                "name": "扇贝壳",
+                "count": 1
+            },
+            {
+                "name": "珊瑚",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "name": "人鱼壁纸",
+        "access": "阿獭赠送",
+        "materials": [
+            {
+                "name": "珍珠",
+                "count": 2
+            },
+            {
+                "name": "钟螺壳",
+                "count": 2
+            },
+            {
+                "name": "沙钱",
+                "count": 2
+            },
+            {
+                "name": "珊瑚",
+                "count": 2
+            },
+            {
+                "name": "扇贝壳",
+                "count": 2
+            },
+            {
+                "name": "宝螺壳",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "name": "人鱼壁钟",
+        "access": "阿獭赠送",
+        "materials": [
+            {
+                "name": "珍珠",
+                "count": 1
+            },
+            {
+                "name": "钟螺壳",
+                "count": 3
+            },
+            {
+                "name": "珊瑚",
+                "count": 2
+            },
+            {
+                "name": "铁矿石",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "name": "人鱼床铺",
+        "access": "阿獭赠送",
+        "materials": [
+            {
+                "name": "珍珠",
+                "count": 2
+            },
+            {
+                "name": "扇贝壳",
+                "count": 2
+            },
+            {
+                "name": "沙钱",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "name": "人鱼灯",
+        "access": "阿獭赠送",
+        "materials": [
+            {
+                "name": "珍珠",
+                "count": 1
+            },
+            {
+                "name": "海螺壳",
+                "count": 3
+            },
+            {
+                "name": "珊瑚",
+                "count": 2
+            },
+            {
+                "name": "铁矿石",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "name": "人鱼地板",
+        "access": "阿獭赠送",
+        "materials": [
+            {
+                "name": "珍珠",
+                "count": 2
+            },
+            {
+                "name": "沙钱",
+                "count": 5
+            },
+            {
+                "name": "石头",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "name": "人鱼地毯",
+        "access": "阿獭赠送",
+        "materials": [
+            {
+                "name": "珍珠",
+                "count": 1
+            },
+            {
+                "name": "沙钱",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "name": "人鱼架子",
+        "access": "阿獭赠送",
+        "materials": [
+            {
+                "name": "珍珠",
+                "count": 1
+            },
+            {
+                "name": "扇贝壳",
+                "count": 1
+            },
+            {
+                "name": "珊瑚",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "name": "人鱼屏风",
+        "access": "阿獭赠送",
+        "materials": [
+            {
+                "name": "珍珠",
+                "count": 2
+            },
+            {
+                "name": "扇贝壳",
+                "count": 3
+            },
+            {
+                "name": "沙钱",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "name": "人鱼沙发",
+        "access": "阿獭赠送",
+        "materials": [
+            {
+                "name": "珍珠",
+                "count": 1
+            },
+            {
+                "name": "沙钱",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "name": "人鱼梳妆台",
+        "access": "阿獭赠送",
+        "materials": [
+            {
+                "name": "珍珠",
+                "count": 1
+            },
+            {
+                "name": "扇贝壳",
+                "count": 1
+            },
+            {
+                "name": "珊瑚",
+                "count": 2
+            },
+            {
+                "name": "铁矿石",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "name": "人鱼椅子",
+        "access": "阿獭赠送",
+        "materials": [
+            {
+                "name": "珍珠",
+                "count": 1
+            },
+            {
+                "name": "扇贝壳",
+                "count": 1
+            },
+            {
+                "name": "沙钱",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "name": "人鱼衣柜",
+        "access": "阿獭赠送",
+        "materials": [
+            {
+                "name": "珍珠",
+                "count": 2
+            },
+            {
+                "name": "扇贝壳",
+                "count": 1
+            },
+            {
+                "name": "珊瑚",
+                "count": 2
+            },
+            {
+                "name": "沙钱",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "name": "人鱼桌",
+        "access": "阿獭赠送",
+        "materials": [
+            {
+                "name": "珍珠",
+                "count": 1
+            },
+            {
+                "name": "沙钱",
+                "count": 4
+            }
+        ]
     }
 ]
